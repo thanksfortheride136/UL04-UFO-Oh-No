@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "4.0- UFO Oh No! (Simple Keyboard Movement).sln"
+    "dotnet.defaultSolution": "UL04-UFO-Oh-No.sln"
 }
